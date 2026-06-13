@@ -26,6 +26,7 @@ public:
     }
 
     bool isPalindrome(string s) {
+
         int n = s.size();
 
         for(char& c : s){
