@@ -1,0 +1,27 @@
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+
+        int n = nums.size();
+
+        vector<int> out;
+
+        bool found = false;
+        for(int i = 0; i<n-1; i++){
+            for(int j = i+1; j<n; j++){
+                if((nums[i] + nums[j]) == target){
+                    out.push_back(i);
+                    out.push_back(j);
+                    found = true;
+                    break;
+                }
+            }
+            if(found == true){
+                    break;
+                }
+        }
+
+        return out;
+        
+    }
+};
