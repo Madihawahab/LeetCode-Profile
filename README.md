@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0125-valid-palindrome) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
 | ------- |
@@ -52,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
