@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0509-fibonacci-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0125-valid-palindrome) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0125-valid-palindrome) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
