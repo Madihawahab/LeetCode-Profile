@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0290-word-pattern) |
+| [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0001-two-sum) |
+| [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [1140-stone-game-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0290-word-pattern](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0290-word-pattern) |
+| [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [1207-unique-number-of-occurrences](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Enumeration
@@ -138,9 +141,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
