@@ -1,35 +1,35 @@
 class SmallestInfiniteSet {
 public:
-    vector<bool> nums;
-    int i;
+    int currentSmallest;
+    set<int> st;
 
     SmallestInfiniteSet() {
 
-        nums = vector<bool>(1001, true);
-        i = 1;
+        currentSmallest = 1;
         
     }
     
     int popSmallest() {
 
-        int result = i;
+        int result;
 
-        nums[i] = false;
-
-        while(nums[i] != true){
-            i++;
+        if(!st.empty()){
+            result = *st.begin();
+            st.erase(st.begin());
+        }else{
+            result = currentSmallest;
+            currentSmallest += 1;
         }
 
         return result;
-        
+
     }
     
     void addBack(int num) {
-        nums[num] = true;
-        
-        if(num<i){
-            i = num;
-        }  
+        if(num >= currentSmallest || st.find(num) != st.end()){
+                return;
+        }
+        st.insert(num);
     }
 };
 
