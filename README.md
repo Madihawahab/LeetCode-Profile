@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [1207-unique-number-of-occurrences](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2336-smallest-number-in-infinite-set) |
 ## Enumeration
 |  |
 | ------- |
@@ -156,8 +157,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2336-smallest-number-in-infinite-set) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
