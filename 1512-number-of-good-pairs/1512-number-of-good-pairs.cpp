@@ -3,17 +3,23 @@ public:
     int numIdenticalPairs(vector<int>& nums) {
 
         int n = nums.size();
+        unordered_map<int, int> freq;
 
-        int cnt = 0;
         for(int i = 0; i<n; i++){
-            for(int j = i+1; j<n;j++){
-                if(nums[i] == nums[j]){
-                    cnt++;
-                }
-            }
+            freq[nums[i]]++;
         }
 
-        return cnt;
+         int result = 0;
+
+        for(auto &it : freq){
+
+            int cnt = it.second;
+
+            result += (cnt*(cnt-1))/2;
+
+       }
+
+       return result;
         
     }
 };
