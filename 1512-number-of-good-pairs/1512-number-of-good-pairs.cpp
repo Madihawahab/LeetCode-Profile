@@ -4,22 +4,17 @@ public:
 
         int n = nums.size();
         unordered_map<int, int> freq;
-
-        for(int i = 0; i<n; i++){
-            freq[nums[i]]++;
+        int result = 0;
+        
+        for(auto &num : nums){
+            if(freq.find(num) != freq.end()){
+                result += freq[num];
+            }
+           
+            freq[num]++;
         }
 
-         int result = 0;
-
-        for(auto &it : freq){
-
-            int cnt = it.second;
-
-            result += (cnt*(cnt-1))/2;
-
-       }
-
-       return result;
+        return result;
         
     }
 };
