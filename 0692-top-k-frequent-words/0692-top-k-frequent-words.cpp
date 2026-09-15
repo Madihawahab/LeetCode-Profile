@@ -3,40 +3,34 @@ public:
     vector<string> topKFrequent(vector<string>& words, int k) {
         
         unordered_map<string, int> mp;
-        
-        //step-1 (store frequency)
-        for(string &word : words){
-            mp[word]++;
+
+        for(auto &it : words){
+            mp[it]++;
         }
 
-        vector<pair<string, int>> vec;
+        vector<pair<string, int>> temp;
 
-        //step-2 (populate the vector with {word, freq})
         for(auto &it : mp){
-            vec.push_back({it.first, it.second});
+            temp.push_back({it.first, it.second});
         }
 
-        //step-3 (sort the vector using comparator)
-        auto lambda = [](pair<string, int>& p1, pair<string, int>& p2){
+        auto myComparator = [](pair<string, int> p1, pair<string, int> p2){
             if(p1.second == p2.second){
-                return p1.first < p2.first;
+                return p1.first<p2.first;
             }
-
-            return p1.second > p2.second;
+            return p1.second>p2.second;
         };
 
-        sort(vec.begin(), vec.end(), lambda);
+        sort(temp.begin(), temp.end(), myComparator);
 
-        //step-4 (return first pr top k elements from the vector vec)
         int i = 0;
-        vector<string> result(k);  
+        vector<string> result(k);
 
         while(i<k){
-            result[i] = vec[i].first;
+            result[i] = temp[i].first;
             i++;
-        }      
+        }
 
         return result;
-
     }
 };
