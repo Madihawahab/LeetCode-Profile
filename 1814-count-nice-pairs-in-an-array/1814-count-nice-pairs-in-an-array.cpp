@@ -17,14 +17,13 @@ public:
 
         int n = nums.size();
 
-        vector<int> rev;
         for(int i = 0; i<n; i++){
-            rev.push_back(nums[i] - reverse(nums[i]));
+            nums[i] = (nums[i] - reverse(nums[i]));
         }
 
         unordered_map<int, int> mp;
         int result = 0;
-        for(auto &it : rev){
+        for(auto &it : nums){
             result = (result + mp[it])%MOD;
             mp[it]++;
         }
