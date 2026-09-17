@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0179-largest-number) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [0823-binary-trees-with-factors](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0823-binary-trees-with-factors) |
+| [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [0823-binary-trees-with-factors](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0823-binary-trees-with-factors) |
+| [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
@@ -183,12 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2336-smallest-number-in-infinite-set) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -205,4 +209,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2352-equal-row-and-column-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
