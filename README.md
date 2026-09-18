@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1929-concatenation-of-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
