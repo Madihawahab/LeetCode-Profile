@@ -4,15 +4,15 @@ public:
 
         int n = nums.size();
         
-        set<int> s;
+        unordered_map<int, int> mp;
+
         for(int i = 0; i<n; i++){
-            if(s.find(nums[i]) != s.end()){
-                return true;
+            if(mp.find(nums[i]) == mp.end()){
+                mp[nums[i]]++;
             }else{
-                s.insert(nums[i]);
+                return true;
             }
         }
-
         return false;
     }
 };
