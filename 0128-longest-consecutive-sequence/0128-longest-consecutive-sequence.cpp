@@ -8,25 +8,22 @@ public:
             return 0;
         }
 
+        sort(nums.begin(), nums.end());
+
+        int lastSmaller = INT_MIN;
+        int cnt = 0;
         int longest = 1;
-        unordered_set<int> s;
+
         for(int i = 0; i<n; i++){
-            s.insert(nums[i]);
-        }
-
-        for(auto it : s){
-            if(s.find(it-1) == s.end()){
-                int cnt = 1;
-                int x = it;
-                while(s.find(x+1) != s.end()){
-                    x = x+1;
-                    cnt = cnt+1;
-                }
-                longest = max(longest, cnt);
+            if(nums[i] - 1 == lastSmaller){
+                cnt += 1;
+                lastSmaller = nums[i];
+            }else if(lastSmaller != nums[i]){
+                cnt = 1;
+                lastSmaller = nums[i];
             }
+            longest = max(longest, cnt);
         }
-
         return longest;
-
     }
 };
