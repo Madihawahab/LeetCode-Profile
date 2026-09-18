@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0014-longest-common-prefix) |
+| [0128-longest-consecutive-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
