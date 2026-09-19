@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [0823-binary-trees-with-factors](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0823-binary-trees-with-factors) |
 | [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0290-word-pattern) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [0823-binary-trees-with-factors](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0823-binary-trees-with-factors) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [0823-binary-trees-with-factors](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0823-binary-trees-with-factors) |
