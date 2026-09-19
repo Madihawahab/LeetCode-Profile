@@ -4,24 +4,24 @@ public:
 
         int n = nums.size();
 
-        vector<int> out;
+        vector<int> ans;
 
         bool found = false;
-        for(int i = 0; i<n-1; i++){
+        for(int i = 0; i<n; i++){
             for(int j = i+1; j<n; j++){
-                if((nums[i] + nums[j]) == target){
-                    out.push_back(i);
-                    out.push_back(j);
+                if(nums[i]+nums[j] == target){
+                    ans.push_back(i);
+                    ans.push_back(j);
                     found = true;
                     break;
                 }
             }
-            if(found == true){
-                    break;
-                }
+            if(found){
+                break;
+            }
         }
 
-        return out;
+        return ans;
         
     }
 };
