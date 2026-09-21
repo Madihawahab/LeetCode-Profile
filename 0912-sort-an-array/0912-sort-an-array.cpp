@@ -2,11 +2,12 @@ class Solution {
 public:
 
     void merge(vector<int>& nums, int s, int m, int e){
-        int i = s;
-        int j = m+1;
-        int k = s;
 
+        int i = s; 
+        int j = m+1;
+    
         vector<int> ans;
+
         while(i<=m && j<=e){
             if(nums[i]<=nums[j]){
                 ans.push_back(nums[i]);
@@ -27,16 +28,14 @@ public:
             j++;
         }
 
-        int n = ans.size();
-    
-        for(int i = 0; i<n; i++){
-            nums[s+i]= ans[i];
+        for(int k = s; k<=e; k++){
+            nums[k] = ans[k-s];
         }
     }
 
     void mergeSort(vector<int>& nums, int s, int e){
 
-        if(s >= e){
+        if(s>=e){
             return;
         }
 
@@ -49,6 +48,7 @@ public:
     }
 
     vector<int> sortArray(vector<int>& nums) {
+
         int n = nums.size();
 
         mergeSort(nums, 0, n-1);
