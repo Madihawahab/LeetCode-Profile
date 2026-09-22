@@ -4,14 +4,14 @@ public:
 
         int n = nums.size();
 
+        //optimal appraoch
+
         unordered_map<int, int> mp;
 
-        for(auto &it : nums){
-            mp[it]++;
-        }
-
-        for(auto &it : mp){
-            if(it.second>1){
+        for(int i = 0; i<n; i++){
+            if(mp.find(nums[i]) == mp.end()){
+                mp[nums[i]]++;
+            }else{
                 return true;
             }
         }
