@@ -5,25 +5,10 @@ public:
         int n =  s.size();
         int m = t.size();
 
-        if(n != m){
-            return false;
-        }
+        sort(s.begin(), s.end());
+        sort(t.begin(), t.end());
 
-        unordered_map<char, int> mps;
-        unordered_map<char, int> mpt;
+       return s == t;
 
-        for(int i = 0; i<n; i++){
-            mps[s[i]]++;
-            mpt[t[i]]++;
-        }
-
-        for(int i = 0; i<n; i++){
-            if(mps[s[i]] != mpt[s[i]]){
-                return false;
-            }
-        }
-    
-    return true;
-       
     }
 };
