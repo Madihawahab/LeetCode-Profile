@@ -10,8 +10,7 @@ public:
             ans[i] = nums[i];
             ans[i+n] = nums[i];
         }
-
-        return ans;
         
+        return ans;
     }
 };
