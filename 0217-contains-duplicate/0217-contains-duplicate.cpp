@@ -4,19 +4,17 @@ public:
 
         int n = nums.size();
 
-        //optimal appraoch
+        //better appraoch
+        //time complexity: O(nlogn)
+        //space complexity: O(1)
 
-        unordered_map<int, int> mp;
+        sort(nums.begin(), nums.end());
 
-        for(int i = 0; i<n; i++){
-            if(mp.find(nums[i]) == mp.end()){
-                mp[nums[i]]++;
-            }else{
+        for(int i = 0; i<n-1; i++){
+            if(nums[i] == nums[i+1]){
                 return true;
             }
         }
-
         return false;
-        
     }
 };
