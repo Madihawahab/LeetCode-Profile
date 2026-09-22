@@ -4,13 +4,19 @@ public:
 
         int n = nums.size();
 
-        sort(nums.begin(), nums.end());
+        unordered_map<int, int> mp;
 
-        for(int i = 0; i<n-1; i++){
-            if(nums[i] == nums[i+1]){
+        for(auto &it : nums){
+            mp[it]++;
+        }
+
+        for(auto &it : mp){
+            if(it.second>1){
                 return true;
             }
         }
+
         return false;
+        
     }
 };
