@@ -2,17 +2,27 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
 
-        //Brute force approach
-        //time complexity : O(nlogn)
-        //space complexity : O(1)
+        //to make this same code work for unicode just create a vector of 128 size this will cover all unicode characeters
+        vector<int> count(26, 0);
 
-        int n =  s.size();
-        int m = t.size();
 
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
+        for(char &ch : s){
+            count[ch - 'a']++;
+        }
 
-       return s == t;
+        for(char &ch : t){
+            count[ch - 'a']--;
+        }
 
+        //check if all elements in a count are zero
+
+        //using lambda function for this
+
+        bool allZeros = all_of(count.begin(), count.end(), [](int element){
+            return element == 0;
+        });
+
+        return allZeros;
+       
     }
 };
