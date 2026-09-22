@@ -4,24 +4,18 @@ public:
 
         int n = nums.size();
 
-        //better approach
-        //time complexity : O(2n)
-        //space complexity : O(n)
+        vector<int> result;
 
-        vector<int> ans;
-        
-        unordered_map<int, int> mp;
-        for(auto &it : nums){
-            mp[it]++;
-        }
+        for(int i = 0; i<n; i++){
+            int num = abs(nums[i]);
+            int idx = num - 1;
 
-        for(auto &it : mp){
-            if(it.second>1){
-                ans.push_back(it.first);
+            if(nums[idx]<0){
+                result.push_back(num);
+            }else{
+                nums[idx] *= -1;
             }
         }
-
-        return ans;
-        
+        return result;
     }
 };
