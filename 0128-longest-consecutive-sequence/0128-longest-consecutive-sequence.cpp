@@ -1,9 +1,8 @@
 class Solution {
 public:
-    //Optimal Approach
-    //time complexity : O(3n)
-    //space complexity : O(n)
-
+    //better approach
+    //time complexity : O(n+nlogn)
+    //space complexity : O(1)
     int longestConsecutive(vector<int>& nums) {
 
         int n = nums.size();
@@ -12,27 +11,24 @@ public:
             return 0;
         }
 
+        sort(nums.begin(), nums.end());
+
+        int cnt = 1;
         int longest = 1;
 
-        unordered_set<int> s;
+        
 
-        for(int i = 0; i<n; i++){
-            s.insert(nums[i]);
-        }
-
-        for(auto &it : s){
-            if(s.find(it-1) == s.end()){
-                int cnt = 1;
-                int x = it;
-                while(s.find(x+1) != s.end()){
-                    x = x+1;
-                    cnt = cnt+1;
-                }
+        for(int i = 0; i<n-1; i++){
+            if(nums[i+1] == nums[i] + 1){
+                cnt++;
                 longest = max(longest, cnt);
+            }else if(nums[i] == nums[i+1]){
+                continue;
+            }else{
+                cnt = 1;
             }
         }
-       
-        return longest;
 
+        return longest;
     }
 };
