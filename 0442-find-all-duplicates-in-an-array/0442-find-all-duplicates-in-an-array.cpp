@@ -7,13 +7,12 @@ public:
         vector<int> ans;
         
         unordered_map<int, int> mp;
-        for(auto &it : nums){
-            mp[it]++;
-        }
-
-        for(auto &it : mp){
-            if(it.second>1){
-                ans.push_back(it.first);
+        
+        for(int i = 0; i<n; i++){
+            if(mp.find(nums[i]) == mp.end()){
+                mp[nums[i]]++;
+            }else{
+                ans.push_back(nums[i]);
             }
         }
 
