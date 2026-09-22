@@ -5,18 +5,19 @@ public:
         int n = nums.size();
 
         //better approach
-        //time complexity : O(n)
-        //space complexity : O(n) 
+        //time complexity : O(2n)
+        //space complexity : O(n)
 
         vector<int> ans;
         
         unordered_map<int, int> mp;
-        
-        for(int i = 0; i<n; i++){
-            if(mp.find(nums[i]) == mp.end()){
-                mp[nums[i]]++;
-            }else{
-                ans.push_back(nums[i]);
+        for(auto &it : nums){
+            mp[it]++;
+        }
+
+        for(auto &it : mp){
+            if(it.second>1){
+                ans.push_back(it.first);
             }
         }
 
