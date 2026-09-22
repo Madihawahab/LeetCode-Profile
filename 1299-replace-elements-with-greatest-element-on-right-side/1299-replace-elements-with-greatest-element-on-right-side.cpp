@@ -4,23 +4,25 @@ public:
         
         int n = arr.size();
 
-        //optimal approach
-        //time complexity : O(n)
+        //brute force approach
+        //time complexity: O(n^2)
         //space complexity : O(1)
 
-        int grt = -1;
-
-        int curr;
-
-        for(int i = n-1; i>=0; i--){
-            curr = arr[i];
-            arr[i] = grt;
-            if(grt<=curr){
-                grt = curr;
+        
+        int i, j;
+        for(i = 0; i<n-1; i++){
+            int grt = INT_MIN;
+            for(j = i+1; j<n; j++){
+                if(grt<=arr[j]){
+                    grt = arr[j];
+                }
             }
+            arr[i] = grt;
+        }
+        if(i == n-1){
+            arr[i] = -1;
         }
 
         return arr;
-
     }
 };
