@@ -4,21 +4,19 @@ public:
         
         int n = arr.size();
 
-        
-        int i, j;
-        for(i = 0; i<n-1; i++){
-            int grt = INT_MIN;
-            for(j = i+1; j<n; j++){
-                if(grt<=arr[j]){
-                    grt = arr[j];
-                }
-            }
+        int grt = -1;
+
+        int curr;
+
+        for(int i = n-1; i>=0; i--){
+            curr = arr[i];
             arr[i] = grt;
-        }
-        if(i == n-1){
-            arr[i] = -1;
+            if(grt<=curr){
+                grt = curr;
+            }
         }
 
         return arr;
+
     }
 };
