@@ -4,6 +4,10 @@ public:
 
         int n = nums.size();
 
+        //better approach
+        //time complexity : O(n)
+        //space complexity : O(n) 
+
         vector<int> ans;
         
         unordered_map<int, int> mp;
