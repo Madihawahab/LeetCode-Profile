@@ -4,6 +4,10 @@ public:
         
         int n = arr.size();
 
+        //optimal approach
+        //time complexity : O(n)
+        //space complexity : O(1)
+
         int grt = -1;
 
         int curr;
