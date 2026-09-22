@@ -4,15 +4,17 @@ public:
 
         int n = nums.size();
 
-        //optimal approach
+        //brute force appraoch
         //time complexity : O(n)
-        //space complexity : O(1);
-
+        //space complexity : O(2n)
+        
+        vector<int> ans(2*n);
 
         for(int i = 0; i<n; i++){
-            nums.push_back(nums[i]);
+            ans[i] = nums[i];
+            ans[i+n] = nums[i];
         }
         
-        return nums;
+        return ans;
     }
 };
