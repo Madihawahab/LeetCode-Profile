@@ -9,28 +9,21 @@ public:
             return false;
         }
 
-        unordered_map<int, int> mps;
-        unordered_map<int, int> mpt;
+        unordered_map<char, int> mps;
+        unordered_map<char, int> mpt;
 
-        for(auto &it : s){
-            mps[it]++;
-        }
-
-        for(auto &it : t){
-            mpt[it]++;
+        for(int i = 0; i<n; i++){
+            mps[s[i]]++;
+            mpt[t[i]]++;
         }
 
         for(int i = 0; i<n; i++){
-            if(mpt.find(s[i]) != mpt.end()){
-                if(mps[s[i]] != mpt[s[i]]){
-                    return false;
-                }
-            }else{
+            if(mps[s[i]] != mpt[s[i]]){
                 return false;
             }
         }
-
-        return true;
-        
+    
+    return true;
+       
     }
 };
