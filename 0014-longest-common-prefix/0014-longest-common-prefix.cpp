@@ -4,7 +4,8 @@ public:
 
         int n = strs.size();
 
-        //brute force
+        //Optimal Approach
+        //time complexity : O(n + nlogn)
 
         sort(strs.begin(), strs.end());
 
