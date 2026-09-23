@@ -4,7 +4,7 @@ public:
 
         int n = nums.size();
 
-        //better approach
+        //brute force approach
         //time complexity : O(n)
         //space complexity : O(n)
 
