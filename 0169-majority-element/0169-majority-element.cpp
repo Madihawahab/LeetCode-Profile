@@ -3,27 +3,25 @@ public:
     int majorityElement(vector<int>& nums) {
 
         int n = nums.size();
-        //brute force approach
-        //time complexity : O(n)
-        //space complexity : O(n)
+       //optimal approach - boyer moore
+       //time complexity : O(n)
+       //space complexity : O(1)
+        int count = 0;
+        int maj = NULL;
 
-        unordered_map<int, int> mp;
+        for(int i = 0; i<n; i++){
 
-        for(auto &it : nums){
-            mp[it]++;
-        }
-
-        int ans;
-
-        for(auto &it : mp){
-            if(it.second > (n/2)){
-                ans = it.first;
-                break;
-
+            if(count == 0){
+                count = 1;
+                maj = nums[i]; //assume
+            }else if(nums[i] == maj){
+                count++;
+            }else{
+                count--;
             }
         }
 
-        return ans;
+        return maj;
         
     }
 };
