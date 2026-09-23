@@ -3,6 +3,9 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
 
         int n = nums.size();
+        //better appraoch
+        //timr complexity : O(n)
+        //space complexity : O(1)
 
         vector<int> ans;
 
