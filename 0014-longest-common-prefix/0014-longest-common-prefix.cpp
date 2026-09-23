@@ -6,43 +6,27 @@ public:
 
         //brute force
 
+        sort(strs.begin(), strs.end());
 
-        if(n == 0){
-            return "";
-        }
-        if(n == 1){
-            return strs[0];
-        }
-
-        map<pair<char, int>, int> mp;
-
-        string st = strs[0];
-        for(int i = 0; i<st.size(); i++){  
-            mp[{st[i], i}]++; 
-        }
-
-        
-        int longest = INT_MAX;
-
-        for(int i = 1; i<n; i++){
-            int cnt = 0;
-            string s = strs[i];
-            for(int j = 0; j<strs[i].size(); j++){
-                if(mp.find({s[j], j}) != mp.end()){
-                    cnt++;
-                }else{
-                    break;
-                }
-            }
-            longest = min(longest, cnt);
-        }
+        string s1 = strs[0];
+        string s2 = strs[n-1]; 
 
         string ans = "";
-        for(int i = 0; i<longest; i++){
-                ans += st[i];
+
+        int i = 0;
+        int j = 0;
+        while(i<s1.size() && j<s2.size()){
+
+            if(s1[i] == s2[j]){
+                ans += s1[i];
+                i++;
+                j++;
+            }else{
+                break;
+            }
         }
 
         return ans;
-       
+
     }
 };
