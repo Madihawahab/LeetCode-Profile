@@ -4,6 +4,10 @@ public:
 
         int n = nums.size();
 
+        //better approach
+        //time complexity : O(n)
+        //space complexity : O(n)
+
         vector<int> ans;
 
         for(int i = 0; i<n; i++){
