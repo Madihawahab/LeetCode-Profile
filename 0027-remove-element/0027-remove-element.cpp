@@ -6,17 +6,22 @@ public:
 
         vector<int> ans;
 
+        int k = 0;
+        int del = 0;
         for(int i = 0; i<n; i++){
             if(val != nums[i]){
-                ans.push_back(nums[i]);
+                nums[k] = nums[i];
+                k += 1;
+            }else{
+                del++;
             }
         }
-        
-        nums.clear();
 
-        for(int i = 0; i<ans.size(); i++){
-            nums.push_back(ans[i]);
+        for(int i = 0; i<del; i++){
+            nums.pop_back();
         }
+
+        
         return nums.size();
     }
 };
