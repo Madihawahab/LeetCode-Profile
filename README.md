@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0290-word-pattern) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0242-valid-anagram) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [1512-number-of-good-pairs](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1512-number-of-good-pairs) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -251,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
