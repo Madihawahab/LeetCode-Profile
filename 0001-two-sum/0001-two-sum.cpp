@@ -6,22 +6,18 @@ public:
 
         vector<int> ans;
 
-        bool found = false;
-        for(int i = 0; i<n; i++){
+        for(int i = 0; i<n-1; i++){
             for(int j = i+1; j<n; j++){
-                if(nums[i]+nums[j] == target){
+                if(nums[i] + nums[j] == target){
                     ans.push_back(i);
                     ans.push_back(j);
-                    found = true;
                     break;
                 }
             }
-            if(found){
+            if(!ans.empty()){
                 break;
             }
         }
-
         return ans;
-        
     }
 };
