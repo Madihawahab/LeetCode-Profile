@@ -4,6 +4,10 @@ public:
 
         int n = nums.size();
 
+        //optimal approach
+        //time complexity : O(n)
+        //space complexity : O(1)
+
         vector<int> ans;
 
         int k = 0;
