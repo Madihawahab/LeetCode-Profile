@@ -4,6 +4,8 @@ public:
         
         int n = nums.size();
 
+        //Brute force approach
+
         int del = 0;
 
         int i = 0; 
@@ -12,11 +14,11 @@ public:
             if(nums[i] != nums[j]){
                 nums[i+1] = nums[j];
                 i++;
-                j++;
             }else{
-                j++;
+                
                 del++;
             }
+            j++;
         }
 
         for(int i = 0; i<del; i++){
