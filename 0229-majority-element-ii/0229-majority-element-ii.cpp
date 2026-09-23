@@ -3,6 +3,9 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
 
         int n = nums.size();
+        //Brute Force
+        //time complexity : O(n)
+        //space somplexity : O(n)
 
         unordered_map<int, int> mp;
 
