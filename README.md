@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
