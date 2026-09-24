@@ -3,13 +3,12 @@ public:
 
     void merge(vector<int>& nums, int s, int m, int e){
 
-        int i = s; 
-        int j = m+1;
-    
         vector<int> ans;
 
+        int i = s;
+        int j = m+1;
         while(i<=m && j<=e){
-            if(nums[i]<=nums[j]){
+            if(nums[i]<nums[j]){
                 ans.push_back(nums[i]);
                 i++;
             }else{
@@ -28,12 +27,13 @@ public:
             j++;
         }
 
+     
         for(int k = s; k<=e; k++){
             nums[k] = ans[k-s];
         }
     }
 
-    void mergeSort(vector<int>& nums, int s, int e){
+    void mergeSort(vector<int> &nums, int s, int e){
 
         if(s>=e){
             return;
@@ -49,11 +49,11 @@ public:
 
     vector<int> sortArray(vector<int>& nums) {
 
-        int n = nums.size();
+       int n = nums.size();
 
-        mergeSort(nums, 0, n-1);
+       mergeSort(nums, 0, n-1);
 
-        return nums;
-        
+       return nums;
+
     }
 };
