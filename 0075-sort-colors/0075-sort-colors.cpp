@@ -1,56 +1,49 @@
 class Solution {
 public:
 
-    void merge(vector<int>& nums, int s, int m, int e){
+    int partition(vector<int>& nums, int s, int e){
 
-        int i = s;
-        int j = m+1;
+        int randomIndex = s+rand()%(e-s+1);
 
-        vector<int> ans;
+        swap(nums[randomIndex], nums[e]);
 
-        while(i<=m && j<=e){
-            if(nums[i]<=nums[j]){
-                ans.push_back(nums[i]);
+        int pivot = nums[e];
+
+        int i = s-1;
+        int j = s;
+
+        while(j<e){
+
+            if(nums[j] < pivot){
                 i++;
-            }else{
-                ans.push_back(nums[j]);
-                j++;
+                swap(nums[i], nums[j]);
             }
-        }
-
-        while(i<=m){
-            ans.push_back(nums[i]);
-            i++;
-        }
-
-        while(j<=e){
-            ans.push_back(nums[j]);
             j++;
         }
+        swap(nums[i+1], nums[e]);
 
-        for(int k = s; k<=e; k++){
-            nums[k] = ans[k-s];
-        }
-            
+        return i+1;
+
     }
 
-    void mergeSort(vector<int>& nums, int s, int e){
+    void qs(vector<int>& nums, int s, int e){
+
         if(s>=e){
             return;
         }
 
-        int m = s+((e-s)/2);
+        int pidx = partition(nums, s, e);
 
-        mergeSort(nums, s, m);
-        mergeSort(nums, m+1, e);
+        qs(nums, s, pidx-1);
+        qs(nums, pidx+1, e);
 
-        merge(nums, s, m, e);
     }
 
+    
     void sortColors(vector<int>& nums) {
 
         int n = nums.size();
 
-        mergeSort(nums, 0, n-1);
+        qs(nums, 0, n-1);
     }
 };
