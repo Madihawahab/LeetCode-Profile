@@ -3,6 +3,7 @@ public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         
         int n = nums.size();
+        //brute force
 
         unordered_map<int, int> mp;
 
