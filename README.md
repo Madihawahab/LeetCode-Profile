@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0706-design-hashmap) |
 | [0823-binary-trees-with-factors](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0823-binary-trees-with-factors) |
 | [0912-sort-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1140-stone-game-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0706-design-hashmap) |
 | [0823-binary-trees-with-factors](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0823-binary-trees-with-factors) |
 | [1207-unique-number-of-occurrences](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1512-number-of-good-pairs) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0706-design-hashmap) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -272,8 +275,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
