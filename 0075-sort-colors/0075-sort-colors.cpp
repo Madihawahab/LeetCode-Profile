@@ -1,16 +1,56 @@
 class Solution {
 public:
+
+    void merge(vector<int>& nums, int s, int m, int e){
+
+        int i = s;
+        int j = m+1;
+
+        vector<int> ans;
+
+        while(i<=m && j<=e){
+            if(nums[i]<=nums[j]){
+                ans.push_back(nums[i]);
+                i++;
+            }else{
+                ans.push_back(nums[j]);
+                j++;
+            }
+        }
+
+        while(i<=m){
+            ans.push_back(nums[i]);
+            i++;
+        }
+
+        while(j<=e){
+            ans.push_back(nums[j]);
+            j++;
+        }
+
+        for(int k = s; k<=e; k++){
+            nums[k] = ans[k-s];
+        }
+            
+    }
+
+    void mergeSort(vector<int>& nums, int s, int e){
+        if(s>=e){
+            return;
+        }
+
+        int m = s+((e-s)/2);
+
+        mergeSort(nums, s, m);
+        mergeSort(nums, m+1, e);
+
+        merge(nums, s, m, e);
+    }
+
     void sortColors(vector<int>& nums) {
 
         int n = nums.size();
 
-        for(int i = 1; i<=n-1; i++){
-            for(int j = 0; j<n-i; j++){
-                if(nums[j]>nums[j+1]){
-                    swap(nums[j], nums[j+1]);
-                }
-            }
-        }
-        return;
+        mergeSort(nums, 0, n-1);
     }
 };
