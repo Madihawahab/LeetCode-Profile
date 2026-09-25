@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0128-longest-consecutive-sequence) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0169-majority-element) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0036-valid-sudoku) |
 | [2352-equal-row-and-column-pairs](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
