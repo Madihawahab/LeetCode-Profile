@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0705-design-hashset) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0705-design-hashset) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
