@@ -4,32 +4,18 @@ public:
 
         int n = nums.size();
 
-        bool contains1 = false;
+        vector<bool> temp(n+1, false);
 
         for(int i = 0; i<n; i++){
-            if(nums[i] == 1){
-                contains1 = true;
+            if(nums[i]<=0 || nums[i] > n){
+                continue;
             }
+            temp[nums[i]] = true;
+        } 
 
-            if(nums[i] <= 0 || nums[i] > n){
-                    nums[i] = 1;
-                }
-        }
-
-        if(!contains1){
-            return 1;
-        }
-
-        for(int i = 0; i<n; i++){
-            if(nums[abs(nums[i]) - 1] < 0) continue;
-            
-                nums[abs(nums[i]) - 1] *= -1;
-
-        }
-
-        for(int i = 0; i<n; i++){
-            if(nums[i]>0){
-                return i+1;
+        for(int i = 1; i<=n; i++){
+            if(temp[i] == false){
+                return i;
             }
         }
 
