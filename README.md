@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2352-equal-row-and-column-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2352-equal-row-and-column-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0036-valid-sudoku) |
 | [2352-equal-row-and-column-pairs](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2352-equal-row-and-column-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
