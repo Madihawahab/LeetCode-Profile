@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1510-stone-game-iv) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
@@ -339,5 +343,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0268-missing-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1310-xor-queries-of-a-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
