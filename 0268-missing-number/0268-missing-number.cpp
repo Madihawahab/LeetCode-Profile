@@ -4,15 +4,15 @@ public:
         
         int n = nums.size();
 
-        //time complexity : O(n)
-        //space complexity : O(n)
+         //time complexity : O(n)
+        //space complexity : O(1)
 
-        int result  = n;
+        int sum = n*(n+1)/2;
 
         for(int i = 0; i<n; i++){
-            result = result^i;
-            result = result^nums[i];
+            sum = sum - nums[i];
         }
-        return result;
+
+        return sum;
     }
 };
