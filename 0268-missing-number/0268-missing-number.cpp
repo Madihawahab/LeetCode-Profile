@@ -5,14 +5,20 @@ public:
         int n = nums.size();
 
         //time complexity : O(n)
-        //space complexity : O(1)
+        //space complexity :O(n)
 
-        int result  = n;
+        vector<bool> temp(n+1, false);
 
         for(int i = 0; i<n; i++){
-            result = result^i;
-            result = result^nums[i];
+            temp[nums[i]] = true;
         }
-        return result;
+
+        for(int i = 0; i<n; i++){
+            if(!temp[i]){
+                return i;
+            }
+        }
+
+        return n;
     }
 };
