@@ -4,18 +4,12 @@ public:
         
         int n = nums.size();
 
-        vector<bool> temp(n+1, false);
+        int sum = n*(n+1)/2;
 
         for(int i = 0; i<n; i++){
-            temp[nums[i]] = true;
+            sum = sum - nums[i];
         }
 
-        for(int i = 0; i<n; i++){
-            if(!temp[i]){
-                return i;
-            }
-        }
-
-        return n;
+        return sum;
     }
 };
