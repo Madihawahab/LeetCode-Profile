@@ -4,6 +4,9 @@ public:
         
         int n = nums.size();
 
+        //time complexity : O(n)
+        //space complexity : O(n)
+
         int result  = n;
 
         for(int i = 0; i<n; i++){
