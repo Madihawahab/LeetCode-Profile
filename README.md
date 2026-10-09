@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0179-largest-number) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0268-missing-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1310-xor-queries-of-a-subarray) |
 ## Binary Search
