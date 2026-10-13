@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
+| [1768-merge-strings-alternately](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
