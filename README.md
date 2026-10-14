@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0509-fibonacci-number) |
 | [0823-binary-trees-with-factors](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0823-binary-trees-with-factors) |
 | [1140-stone-game-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1140-stone-game-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Madihawahab/LeetCode-Profile/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madihawahab/LeetCode-Profile/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Madihawahab/LeetCode-Profile/tree/master/0692-top-k-frequent-words) |
